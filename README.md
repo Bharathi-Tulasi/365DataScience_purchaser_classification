@@ -1,14 +1,14 @@
 # 365DataScience_purchaser_classification
-365 Data Science company's purchaser classification
+365 Data Science company's purchaser classification  
 
-The classification of purchaser of 365 Data Science company based on their company dataset. The dataset has 7 features and 2 classes.
+The classification of purchaser of 365 Data Science company based on their company dataset. The dataset has 7 features and 2 classes.    
 
-Features - student_country	days_on_platform	minutes_watched	courses_started	practice_exams_started	practice_exams_passed	minutes_spent_on_exams
-Classes - purchased (1) and Not Purchased (0)
+Features - student_country	days_on_platform	minutes_watched	courses_started	practice_exams_started	practice_exams_passed	minutes_spent_on_exams  
+Classes - purchased (1) and Not Purchased (0)  
 
-The classification is performed using Logistic regression, K-Nearest Neighbors, Support Vector Machines, Decision Trees and Random Forest.
+The classification is performed using Logistic regression, K-Nearest Neighbors, Support Vector Machines, Decision Trees and Random Forest.  
 
-The project flow:
+The project flow:  
 --> Import necessary libraries  
 --> Import the data  
 --> Plot Distribution of the features to study skewness  
